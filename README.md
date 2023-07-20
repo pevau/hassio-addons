@@ -30,7 +30,7 @@ A Hass.IO add-on repository for the following products I use at home
 [home-assistant]: https://home-assistant.io
 [issue]: https://github.com/sytone/hassio-addons/issues
 [license-shield]: https://img.shields.io/github/license/sytone/hassio-addons.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [last-commit-shield]: https://img.shields.io/github/last-commit/sytone/hassio-addons.svg
 [stars-shield]: https://img.shields.io/github/stars/sytone/hassio-addons.svg?style=social&label=Stars
 [forks-shield]: https://img.shields.io/github/forks/sytone/hassio-addons.svg?style=social&label=Forks
