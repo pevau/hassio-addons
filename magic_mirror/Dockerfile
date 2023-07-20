@@ -10,8 +10,9 @@ ENV LANG C.UTF-8
 #    && npm i npm@latest -g 
 
 RUN apk add --no-cache git  curl wget unzip
-RUN apk add nodejs --update-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/main --allow-untrusted
-RUN apk add npm --update-cache --repository http://dl-cdn.alpinelinux.org/alpine/edge/main --allow-untrusted
+# Install latest LTS nodejs and npm
+RUN apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/main/ nodejs
+RUN apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community/ npm
 #RUN apk --update nodejs npm
 #RUN npm set unsafe-perm true
 #RUN npm i npm@latest -g 
