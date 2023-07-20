@@ -145,7 +145,7 @@ use the code or contribute to it.
 [issue]: https://github.com/pevau/hassio-addons/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [license-shield]: https://img.shields.io/github/license/pevau/hassio-addons.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [releases-shield]: https://img.shields.io/github/release/pevau/hassio-addons.svg
 [releases]: https://github.com/pevau/hassio-addons/releases
