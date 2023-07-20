@@ -9,7 +9,7 @@
 
 [![Community Forum][forum-shield]][forum]
 
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+#[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 
 # hassio-addons
@@ -20,18 +20,18 @@ A Hass.IO add-on repository for the following products I use at home
 
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/sytone
-[commits-shield]: https://img.shields.io/github/commit-activity/y/sytone/hassio-addons.svg
+[buymeacoffee]: https://www.buymeacoffee.com/pevau
+[commits-shield]: https://img.shields.io/github/commit-activity/y/pevau/hassio-addons.svg
 [commits]: https://github.com/sytone/hassio-addons/commits/master
 [contributors]: https://github.com/sytone/hassio-addons/graphs/contributors
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io/?u=sytone
-[frenck]: https://github.com/sytone
+[forum]: https://community.home-assistant.io/?u=pevau
+[frenck]: https://github.com/pevau
 [home-assistant]: https://home-assistant.io
 [issue]: https://github.com/sytone/hassio-addons/issues
 [license-shield]: https://img.shields.io/github/license/sytone/hassio-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
-[last-commit-shield]: https://img.shields.io/github/last-commit/sytone/hassio-addons.svg
+[last-commit-shield]: https://img.shields.io/github/last-commit/pevau/hassio-addons.svg
 [stars-shield]: https://img.shields.io/github/stars/sytone/hassio-addons.svg?style=social&label=Stars
 [forks-shield]: https://img.shields.io/github/forks/sytone/hassio-addons.svg?style=social&label=Forks
 [watchers-shield]: https://img.shields.io/github/watchers/sytone/hassio-addons.svg?style=social&label=Watchers
