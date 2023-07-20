@@ -80,6 +80,9 @@ cp -Rf $MM_CONFIG_ROOT/modules $MIRROR_APP_PATH
 cp -Rf $MM_CONFIG_ROOT/config $MIRROR_APP_PATH
 cp -Rf $MM_CONFIG_ROOT/css $MIRROR_APP_PATH
 
+
+sleep 120
+
 # Versions for debugging if needed.
 NODE_CURRENT=$(node -v)
 echo "[INFO] Node Version: $NODE_CURRENT"
