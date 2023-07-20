@@ -10,16 +10,16 @@ ENV LANG C.UTF-8
 #    && npm i npm@latest -g 
 
 RUN apk add --no-cache git  curl wget unzip
-RUN apk --update nodejs npm
-RUN npm set unsafe-perm true
-RUN npm i npm@latest -g 
+#RUN apk --update nodejs npm
+#RUN npm set unsafe-perm true
+#RUN npm i npm@latest -g 
 
 WORKDIR /opt/magic_mirror
 
-RUN git clone --depth 1 -b master https://github.com/MichMich/MagicMirror.git . \
-  && npm install --unsafe-perm
+#RUN git clone --depth 1 -b master https://github.com/MichMich/MagicMirror.git . \
+#  && npm install --unsafe-perm
 
-#RUN git clone --depth 1 -b master https://github.com/MichMich/MagicMirror.git
+RUN git clone --depth 1 -b master https://github.com/MichMich/MagicMirror.git
 
 # Copy data
 COPY run.sh /
