@@ -9,7 +9,7 @@
 
 [![Community Forum][forum-shield]][forum]
 
-#[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 
 # hassio-addons
