@@ -69,10 +69,10 @@ can be edited. Please make sure you do not change the Home Assistant urls as the
 the internal API Proxy used by HASS.
 
 Default home page showing some sensor data
-![Default home with some sensor data](https://raw.githubusercontent.com/sytone/hassio-addons/master/magic_mirror/mm-home.png)
+![Default home with some sensor data](https://raw.githubusercontent.com/pevau/hassio-addons/master/magic_mirror/mm-home.png)
 
 Using the menu you can navigate to the full Home Assistant UI, handy for tablets.
-![Using menu to access ha layer](https://raw.githubusercontent.com/sytone/hassio-addons/master/magic_mirror/mm-ha-menu.png)
+![Using menu to access ha layer](https://raw.githubusercontent.com/pevau/hassio-addons/master/magic_mirror/mm-ha-menu.png)
 
 
 ## MagicMirror² configuration and user manuals
@@ -138,16 +138,16 @@ You could also [open an issue here][issue] GitHub.
 This is an active open-source project. We are always open to people who want to
 use the code or contribute to it.
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/sytone/hassio-addons.svg
-[commits]: https://github.com/sytone/hassio-addons/commits/master
-[sytone]: https://github.com/sytone
+[commits-shield]: https://img.shields.io/github/commit-activity/y/pevau/hassio-addons.svg
+[commits]: https://github.com/pevau/hassio-addons/commits/master
+[pevau]: https://github.com/pevau
 [home-assistant]: https://home-assistant.io
-[issue]: https://github.com/sytone/hassio-addons/issues
+[issue]: https://github.com/pevau/hassio-addons/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-[license-shield]: https://img.shields.io/github/license/sytone/hassio-addons.svg
+[license-shield]: https://img.shields.io/github/license/pevau/hassio-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[releases-shield]: https://img.shields.io/github/release/sytone/hassio-addons.svg
-[releases]: https://github.com/sytone/hassio-addons/releases
-[repository]: https://github.com/sytone/hassio-addons
+[releases-shield]: https://img.shields.io/github/release/pevau/hassio-addons.svg
+[releases]: https://github.com/pevau/hassio-addons/releases
+[repository]: https://github.com/pevau/hassio-addons
 [semver]: http://semver.org/spec/v2.0.0.htm
