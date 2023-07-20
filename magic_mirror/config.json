@@ -39,12 +39,12 @@
       {
         "name": "MMM-homeassistant-sensors",
         "git": "https://github.com/leinich/MMM-homeassistant-sensors.git",
-        "cmd": "cd $MIRROR_APP_PATH/modules/MMM-homeassistant-sensors && wget https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip && unzip master.zip"
+        "cmd": "cd /opt/magic_mirror/modules/MMM-homeassistant-sensors && wget https://github.com/Templarian/MaterialDesign-Webfont/archive/master.zip && unzip master.zip"
       },
       {
         "name": "MMM-HASS",
         "git": "https://github.com/aserramonner/MMM-HASS.git",
-        "cmd": "cd $MIRROR_APP_PATH/ && git checkout modules/node_modules/node_helper/index.js"
+        "cmd": "cd /opt/magic_mirror/ && git checkout modules/node_modules/node_helper/index.js"
       }
     ]
   },
