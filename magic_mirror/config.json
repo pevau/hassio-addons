@@ -12,7 +12,7 @@
     "8080/tcp": 8181
   },
   "options": {
-    "gitupdate": true,
+    "gitupdate": false,
     "npmupdate": false,
     "npminstall": false,
     "modules": [
